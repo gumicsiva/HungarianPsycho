@@ -1,0 +1,8 @@
+baseURL = 'https://asdasdasd.github.io/'
+languageCode = 'en-us'
+theme = "eureka"
+
+[params]
+title = "asdasdasd"
+author = "buka"
+description = "tudatfolyam"
