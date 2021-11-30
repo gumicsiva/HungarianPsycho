@@ -4,3 +4,15 @@
 [submodule "themes/eureka"]
 	path = themes/eureka
 	url = https://github.com/lxndrblz/anatole.git
+[submodule "themes/fuji"]
+	path = themes/fuji
+	url = https://github.com/amzrk2/hugo-theme-fuji.git
+[submodule "hugo-eureka"]
+	path = hugo-eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "asdasdasd/themes"]
+	path = asdasdasd/themes
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "themes/hugo-eureka"]
+	path = themes/hugo-eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
