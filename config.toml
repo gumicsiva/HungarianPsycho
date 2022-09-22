@@ -6,7 +6,7 @@ theme = "mainroad"
 
 [Author] # Used in authorbox
   name = "Buka"
-  bio = "tudatfolyam"
+  bio = "Két fontos kérdéssel állok bárkihez, aki közelít: mit akar ez tőlem és mit takar előlem? A másik ember koponyája biokémiai feketedoboz; zsírral, rostokkal és szövefolyadékkal kipárnázott neuronok titkos összeesküvésének páholya. Az indítékok jóformán kipuhatolhatatlanok."
   avatar = "img/avatar2.jpg"
 
   
@@ -39,13 +39,13 @@ theme = "mainroad"
 
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
   # Take care of different quotes OR escaping symbols in these params if necessary
-  fontFamilyPrimary = "'Open sans', Helvetica, Arial, sans-serif"
+  fontFamilyPrimary = "'Century Gothic', Helvetica, Arial, sans-serif"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
   image = "images/brain.png" # Logo image. Path relative to "static"
   title = "HUNGARIAN PSYCHO" # Logo title, otherwise will use site title
-  subtitle = "Ismeret- és rémhírterjesztés a lélekről" # Logo subtitle
+  subtitle = "Felelőtlen ismeret– és rémhírterjesztés a lélekről" # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
