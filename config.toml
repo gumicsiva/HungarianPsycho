@@ -7,7 +7,7 @@ theme = "mainroad"
 [Author] # Used in authorbox
   name = "Buka"
   bio = "tudatfolyam"
-  avatar = "img/avatar.jpg"
+  avatar = "img/avatar2.jpg"
 
   
 [Params]
@@ -22,7 +22,7 @@ theme = "mainroad"
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["date", "author", "categories"] # Order of post meta information
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
-  dateformat = "2006-01-02" # Change the format of dates
+  dateformat = "2006-01-02" #Change the format of dates
   mathjax = true # Enable MathJax
   mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
   mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
@@ -43,8 +43,8 @@ theme = "mainroad"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "images/c.JPG" # Logo image. Path relative to "static"
-  title = "asdasdasd" # Logo title, otherwise will use site title
+  image = "images/brain.png" # Logo image. Path relative to "static"
+  title = "HUNGARIAN PSYCHO" # Logo title, otherwise will use site title
   subtitle = "Just another site" # Logo subtitle
 
 [Params.thumbnail]
