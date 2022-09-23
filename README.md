@@ -1,2 +1,2 @@
 # asdasdasd
-Hungarian Psycho blog
+blog
