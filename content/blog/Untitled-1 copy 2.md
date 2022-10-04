@@ -2,7 +2,7 @@
 title: Ode To Algocracy
 description: 
 date: "2022-09-21"
-thumbnail: "img/avatar.jpg"
+thumbnail: "img/ajjajj.jpg"
 categories:
   - "Észosztás"
 tags:
