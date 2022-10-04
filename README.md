@@ -1,2 +1,2 @@
-# asdasdasd
+# HungarianPsycho
 Hungarian Psycho blog
