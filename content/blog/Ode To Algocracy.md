@@ -1,8 +1,9 @@
 ---
 title: Ode to Algocracy
 description: 
-date: "2022-10-05"
+date: "2022-10-06"
 thumbnail: "img/ajjajj.jpg"
+lead: 
 categories:
   - "Észosztás"
 tags:
@@ -10,12 +11,13 @@ tags:
 
 
 ---
-Town square beheadings, powdered wigs and landline phones – although currently regarded as one of the sacred axioms of modern day democracy, the _popular vote_ will ultimately end up in the same bucket as any other obsolete, bizarre or cruel tradition we used to believe was the pinnacle of our civilization.
+Town square beheadings, powdered wigs and democratic elections – although currently regarded as one of the sacred axioms of modern democracy, the _popular vote_ might ultimately end up in the same bucket as any other obsolete, bizarre or cruel tradition we used to believe was the pinnacle of our civilization.
 Are two (or multiple) heads really better than one? Does this mythical entity that periodically emerges from us, the society of voters – a collective-unconscious hydra of sorts – really know what's best?  
 
 ### Argumentum Ad Populum
 
 For a while it was the best we had - it was all we had. In ancient times, it seemed like a perfectly reasonable idea to consult the hive mind on important matters - a commonly applied strategy all throughout history with many examples. _Ostrakismos_, the ancient Athenian practice of banishing certain individuals from the community – which is where the phrase ’ostracism’ originates from – was an attempt to achieve group consensus in order to determine a citizen’s lack of social fitness. The ostracized were determined to be ineligible to participate in the community based on the democratic vote and were exiled, not being allowed to return for a period of time or might have even been given the death penalty in some extreme cases.
+
 
 Another similar procedure takes place in the US legal system to this very day - a jury of twelve randomly selected but theoretically unbiased individuals are placed in a room to deliberate about the guilt or innocence of the accused; based on the admissable scientific and legal evidence. This would always strike me as incredibly odd and old-fashioned, a routine that seems almost superstitious and barbaric. Again, notice this heavy reliance on group think, this underlying belief of „safety in numbers”; the core philosophy being, to put it simply: _„This many people can certainly not be wrong.”_
 
