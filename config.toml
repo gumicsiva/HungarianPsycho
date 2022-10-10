@@ -11,7 +11,7 @@ theme = "mainroad"
 
   
 [Params]
-  description = "" # Site description. Used in meta description
+  description = "Hungarian Psycho" # Site description. Used in meta description
   copyright = "Buka" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
