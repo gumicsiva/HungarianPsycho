@@ -2,7 +2,7 @@
 title: Hatalom– és erőszakfétis a középszerű életek alkonyán
 description: 
 date: "2022-11-15"
-thumbnail: "img/ajjajj.jpg"
+thumbnail: "img/oreg.jpg"
 lead: 
 categories:
   - "Téveszme"
