@@ -399,6 +399,7 @@ select {
 .logo__item {
 	display: inline-block;
 	vertical-align: middle;
+	text-align: center;
 
 }
 
@@ -408,11 +409,14 @@ select {
 
 .logo__text {
 	text-transform: uppercase;
+	text-align: center;
+
 
 }
 
 .logo--mixed .logo__item {
 	margin: .5rem auto;
+	text-align: center;
 
 }
 
@@ -1240,8 +1244,10 @@ textarea {
 }
 
 @media screen and (max-width: 767px) {
-	.wrapper {
+	.wrapper,
+	.logo {
 		display: block;
+		padding: 10px;
 	}
 
 	.sidebar {
@@ -1252,15 +1258,14 @@ textarea {
 
 	.logo {
 		text-align: center;
-	}
+    }
 
 	.logo__link {
 		margin: 0 auto;
 	}
 
 	.logo__title {
-		font-size: 30px;
-		font-size: 2.5rem;
+		font-size: 1.8rem;
 		font-kerning:normal;
 		text-align: center;
 	}
