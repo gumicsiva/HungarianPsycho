@@ -1,9 +1,9 @@
 ---
 title: Eltemetett tragédiáink zombi-apokalipszise elevenen fog felfalni minket
 draft: 
+thumbnail: "img/kozle.jpg"
 description: 
 date: "2022-11-24"
-thumbnail: "img/kozle.jpg"
 categories:
   - "Észosztás"
 tags:
@@ -16,7 +16,7 @@ A politizálás egy olyan közelekedőedény, melynek szerkezetében a legkülö
 
 Az esztétikailag nagyon eltérő, de traumafolyadékot közel hasonló szinten tartalmazó ideológia-bugyrok azonosnak tekintehetőek társadalmi károkozás tekintetében – ugyanannak a roncsoló érzelmi tabusításnak a jegyeit viselik magukon. Mentálhigiénés szempontból nincs különbség a szélsőségesen feminista és a nőgyűlölő, vagy a politikailag görcsösen korrektkedő és az ocsmányul kirekesztő vélemények között – ezek csupán külsőségeikben állíthatóak ellentétbe egymással, egyébként mind ugyanazt a célt szolgálják: a nem artikulálható személyes tragédiák társadalmilag elfogadott(abb) avatárjaiként funkcionálnak.
 
-A probléma nem mindig és nem elsősorban azokkal a formákkal van, melyeket a folyadék felvesz. A legrettenetesebb, hogy nem *comme il faut* magukról a traumanedvekről formalitások nélkül, közvetlenül beszélni; így a szenvedők más úton nem kommunikálhatnak az őket ért szubjektív, pszichés fájdalmakról, kizárólag a politikai ideológiák steril, lélekidegen formalitásain keresztül.
+A probléma nem mindig és nem elsősorban azokkal a formákkal van, melyeket a folyadék felvesz. A legrettenetesebb, hogy nem *comme il faut* magukról a traumanedvekről formalitások nélkül, közvetlenül beszélni; így a szenvedők más úton nem kommunikálhatnak az őket ért szubjektív, pszichés fájdalmakról, kizárólag a politikai ideológiák steril, lélekidegen alakzatain keresztül.
 
 >*R.-t (aki nő) többszöri próbálkozás ellenére sem lehetett arról meggyőzni, hogy a modern kapitalista társadalmak nem a fehér, felsőközéposztálybeli heteroszexuális férfiak alattomos összeesküvésének eredményeképpen jöttek létre a nők és a gyermekek szexuális kizsákmányolásának céljából.  Hitte és hirdette, hogy statisztikailag jó eséllyel minden 18. életévét betöltött fehér bőrű férfi közvetlen veszélyt jelent a kiskorúakra, leginkább szexuális értelemben. Kérdésemre kifejtette, hogy ugyanezt a fenyegetést nem-fehér férfiakkal kapcsolatban nem érzi – saját, nem-reprezentatív élményei és anekdotális információi elegendőnek bizonyultak ezen nézet racionalizálásához. Csak egy szigorúan matriarchális struktúrában érezte volna magát biztonságban, emiatt támogatta a női kvóta ötletét is. Úgy látta, hogy az elnyomó férfiak kezéből úgy kell a hatalmat kicsavarni, mint erőszakos óvodás kezéből a homokozólapátot – erőnek erejével. Táplálkozási zavarral és általános szorongással küzdött, múltjáról kevés konkrétummal nyilatkozott, ám előttem a kevés információ ellenére is kirajzolódott egy hatalmas, meg nem nevezett szörnyűség, mely egész életére és létfelfogására árnyékot vetett. Az önbíráskodást legitimizáló szenvedélyes (és érvekkel nem megszelidíthető) szólamainak hallatán egyértelmű volt, hogy ez az egyébként rendkívül logikusan és józanul gondolkodó nő valójában egy nagyon fontos, de részleteiben nem megosztható személyes sérelemről kommunikál velünk, a közéleti diskurzus formanyelvét felhasználva arra, hogy egyszerre elfedje és valamelyest mégis felfedje, amiről valójában beszélni szeretne.*
 
