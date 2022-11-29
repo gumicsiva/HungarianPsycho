@@ -1,16 +1,16 @@
 ---
-title: Eltemetett tragédiáink zombi-apokalipszise elevenen fog felfalni minket
+title: El nem temetett tragédiáink zombi-apokalipszise elevenen fog felfalni minket
 draft: 
 thumbnail: "img/kozle.jpg"
 description: 
 date: "2022-11-24"
 categories:
-  - "Észosztás"
+  - "Téveszme"
 tags:
   - "HU"
 ---
 
-A politizálás egy olyan közelekedőedény, melynek szerkezetében a legkülönbözőbb formátumokba nyomódik bele a társadalom szövetében elkerülhetetlenül képződő traumaváladék. A pszichológiai eredetű nyomás, mely ezeket a traumákat felszínre tolja, törvényszerű: az elhallgatás hosszú távon nem működik, akaratlanul is kijön, aminek ki kell jönnie – ez azonban sokszor maladaptív, egészségesnek nem mondható módokon történik.
+A politika egy olyan közelekedőedény, melynek szerkezetében a legkülönbözőbb formátumokba nyomódik bele a társadalom szövetében elkerülhetetlenül képződő traumaváladék. A pszichológiai eredetű nyomás, mely ezeket a traumákat felszínre tolja, törvényszerű: az elhallgatás hosszú távon nem működik, akaratlanul is kijön, aminek ki kell jönnie – ez azonban sokszor maladaptív, egészségesnek nem mondható módokon történik.
 
 >*Á.-t (aki férfi) tinédzser korában megkörnyékezte egy azonosnemű prédára vadászó pedofil, mely élményéről csak egy tálca feles után és csak nagyon felületesen tudott nekünk megnyilvánulni, valódi lelki konklúziók nélkül és sűrűn záporozó buzizások közepette. Megértettem, hogy Á.-nak nincsen más lehetősége a saját férfiasságát nem fenyegető módon beszélni nekünk az őt ért támadásról, illetve annak érzelmi hozadékáról, csakis a homofób kirohanások ostoba koordináta-rendszerében. Megértettem azt, amit ő maga sem értett magával kapcsolatban, hogy a tényleges közlendője nem az “**ők** rosszak”, hanem az “**én** szenvedek”. Sem kellő intelligenciával, sem kellő bátorsággal, sem elég információval nem rendelkezett ahhoz, hogy a történetét a maga pőre lényegében elmesélje – pedig valójában semmi másra sem vágyott volna jobban, mint arra, hogy meghallgassák. Egy átlagos állampolgár volt, átlagos megküzdési kompetenciákkal – esete nem sokban különbözik egyéb, politikai ideológiákban oltalmat kereső emberekétől.*
 

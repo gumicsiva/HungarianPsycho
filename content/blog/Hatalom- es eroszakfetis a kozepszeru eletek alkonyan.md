@@ -33,7 +33,7 @@ Alternatív megoldásként esetleg az marad, hogy a megpróbál a fiatalság az 
 
 >*“Igazad van, mama, ott rohadjanak meg. De kicsit óvatosan fogalmazol, mi ez a brüsszelita finomkodás? A szíved mélyén tudod, hogy magyar hazafi addig nem nyughat, míg molekuláikra robbantott náci ukrán csecsemők zsírja és vére nem borítja Kijev utcáit. Széthasított óvodások erjedő belsőségeiben szeretnék lubickolni! Zelenszkij-t gégén kellene lőni, az agyvelejéből pedig pacalt főzni. Megennéd, mama? Biztos csak a fűszerezésen múlik. Ne gusztustalankodjak? Te komolyan véded ezt a szélsőjobbalos izraelita náci-kínaikommunista-imperialista söpredéket? Gyanús vagy nekem. Csak nem a CIA szekerét tolod te is? Azt ne mondd, hogy még a nukleáris fegyverek bevetésével kapcsolatban is ellenvetéseid vannak? MICSODA? Hogy azzal már túl messzire mennénk? Lószart, mama. Semmi sem elég drága. Itt a jövőnkről van szó! Vagy inkább elnéznéd, hogy ezek az alvilági férgek a délutáni pihenő alatt átműtik a Zsomborkát?”*
 
-(Talán, ha a fiatalok ironikusan megtöltenék azt a késhegynyi helyet, ami az politikai spektrum szakadékba torkolló legszéle és a komrányzati-jobboldali narratíva között még fellelhető, vissza lehetne szorítani a radikalizált idősebb rétegeket a mérsékelt konzervativizmus irányába. Természetesen nem kizárt az sem, hogy már túl késő.)
+(Talán, ha a fiatalok ironikusan megtöltenék azt a késhegynyi helyet, ami a politikai spektrum szakadékba torkolló legszéle és a kormányzati-jobboldali narratíva között még fellelhető, vissza lehetne szorítani a radikalizált idősebb rétegeket a mérsékelt konzervativizmus irányába. Természetesen nem kizárt az sem, hogy már túl késő.)
 
 <!-- <div class="bassz"> -->
 <!-- ![kep](/kemeny.png) -->
