@@ -132,12 +132,15 @@ textarea {
 	font-kerning:normal;
 	color: #fff;
 	white-space: pre-line;
-	background: #2a2a2a;
+	background: #726872;
+	
+
 }
 
 .btn:hover {
 	color: #fff;
 	background: #5F0851;
+
 }
 
 /* Animation */
@@ -659,7 +662,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .post__thumbnail img {
-	width: 60%;
+	width: 45%;
 	float: left;
 	padding: 15px;
 }
@@ -903,6 +906,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .list__footer-readmore {
 	float: right;
 	margin-top: 10px;
+	border-radius: 25px;
 }
 
 /* Pagination */
@@ -1157,6 +1161,7 @@ textarea {
 /* Tags Widget */
 .widget-taglist__link {
 	display: inline-block;
+	border-radius: 25px;
 	margin: 0 4px 8px 0;
 	font-size: 12px;
 	text-transform: uppercase;
@@ -1170,6 +1175,7 @@ textarea {
 .widget-languages__link:hover .widget-languages__link-btn {
 	color: #fff;
 	background: #5F0851;
+	
 }
 
 .widget-languages__link-btn {
@@ -1347,6 +1353,7 @@ textarea {
 }
 
 @media screen and (max-width: 400px) {
+
 	
 	.container {
 		margin: 0 auto;
