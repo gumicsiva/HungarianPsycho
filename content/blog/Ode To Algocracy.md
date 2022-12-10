@@ -11,7 +11,7 @@ tags:
 
 
 ---
-Town square beheadings, powdered wigs and democratic elections – although currently regarded as the sacred cow of modern democracy, the *popular vote* might ultimately end up in the same bucket as any other obsolete, bizarre or cruel tradition we used to believe was the pinnacle of our civilization.
+Town square beheadings, powdered wigs and democratic elections – although currently regarded as the sacred cow of modern democracies, the *popular vote* might ultimately end up in the same bucket as any other obsolete, bizarre or cruel tradition we used to believe was the pinnacle of our civilization.
 Are two (or multiple) heads really better than one? Does this mythical entity that periodically emerges from the voting base – a collective-unconscious hydra of sorts – really know what's best?  
 
 ### Argumentum Ad Populum
