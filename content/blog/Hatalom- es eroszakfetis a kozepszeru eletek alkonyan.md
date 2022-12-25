@@ -27,7 +27,7 @@ Ily módon a gyűlölködés gyengéd védőbúrája látszólagos oltalmat nyú
 
 ![kep](/huha.png)
 
-{{< figure src="/huha.png" width="200" height="200" align="right" alt="huha" >}}
+<!--  {{< figure src="/huha.png" width="200" height="200" align="right" alt="huha" >}} this is how you can resize-->
 
 Egy az elmúlással jóban levő társadalomnak keveset mondanának az efféle hamisságok. A “mit tehetünk?” kérdésére talán az a legjobb válasz, hogy meg kell tanítanunk az embereket (leginkább magunkat) méltósággal meghalni, az elengedés folyamatában kegyelemmel, terápiával, pszichedelikumokkal kísérni, támogatni őket (és magunkat). Ez persze kitartást és szeretetet igénylő, csak nagyon nehezen mérhető, csak hosszú távon változásokat hozó projekt, melynek így igen kevés a létjogosultsága. 
 
@@ -36,21 +36,3 @@ Alternatív megoldásként esetleg az marad, hogy a megpróbál a fiatalság az 
 >*“Igazad van, mama, ott rohadjanak meg. De kicsit óvatosan fogalmazol, mi ez a brüsszelita finomkodás? A szíved mélyén tudod, hogy magyar hazafi addig nem nyughat, míg molekuláikra robbantott náci ukrán csecsemők zsírja és vére nem borítja Kijev utcáit. Széthasított óvodások erjedő belsőségeiben szeretnék lubickolni! Zelenszkij-t gégén kellene lőni, az agyvelejéből pedig pacalt főzni. Megennéd, mama? Biztos csak a fűszerezésen múlik. Ne gusztustalankodjak? Te komolyan véded ezt a szélsőjobbalos izraelita náci-kínaikommunista-imperialista söpredéket? Gyanús vagy nekem. Csak nem a CIA szekerét tolod te is? Azt ne mondd, hogy még a nukleáris fegyverek bevetésével kapcsolatban is ellenvetéseid vannak? MICSODA? Hogy azzal már túl messzire mennénk? Lószart, mama. Semmi sem elég drága. Itt a jövőnkről van szó! Vagy inkább elnéznéd, hogy ezek az alvilági férgek a délutáni pihenő alatt átműtik a Zsomborkát?”*
 
 (Talán, ha a fiatalok ironikusan megtöltenék azt a késhegynyi helyet, ami a politikai spektrum szakadékba torkolló legszéle és a kormányzati-jobboldali narratíva között még fellelhető, vissza lehetne szorítani a radikalizált idősebb rétegeket a mérsékelt konzervativizmus irányába. Természetesen nem kizárt az sem, hogy már túl késő.)
-
-<!-- <div class="bassz"> -->
-<!-- ![kep](/kemeny.png) -->
-<!-- </div> -->
-
-<!-- <!-- <img class="special-img-class" style="width:100%" src="static/x.jpg" /> -->
-<img src="content/blog/Bonobos.jpg" alt="drawing" width="200"/>
-<!-- <img src="./static/x.png" /> -->
-<!-- .
-{{ $asset := resources.Get "/x.png" }}
-{{ $img := $asset.Fit "600x400" }}
-<figure class="image is-3by2">
-  <img alt="Yellow Duck" src="{{ $img.RelPermalink }}" />
-</figure> -->
-
-<!-- {{ $image := (.Site.Resources.GetMatch (.Get 0)).Resize "50x50" }} -->
-<img src="{{ $image.RelPermalink }}">
-
