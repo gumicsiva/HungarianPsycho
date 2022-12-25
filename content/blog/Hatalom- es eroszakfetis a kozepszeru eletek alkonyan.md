@@ -27,6 +27,8 @@ Ily módon a gyűlölködés gyengéd védőbúrája látszólagos oltalmat nyú
 
 ![kep](/huha.png)
 
+{{< figure src="/huha.png" width="200" height="200" align="right" alt="huha" >}}
+
 Egy az elmúlással jóban levő társadalomnak keveset mondanának az efféle hamisságok. A “mit tehetünk?” kérdésére talán az a legjobb válasz, hogy meg kell tanítanunk az embereket (leginkább magunkat) méltósággal meghalni, az elengedés folyamatában kegyelemmel, terápiával, pszichedelikumokkal kísérni, támogatni őket (és magunkat). Ez persze kitartást és szeretetet igénylő, csak nagyon nehezen mérhető, csak hosszú távon változásokat hozó projekt, melynek így igen kevés a létjogosultsága. 
 
 Alternatív megoldásként esetleg az marad, hogy a megpróbál a fiatalság az öregek szélsőségességére eggyel meghökkentőbb gore-fetisizmussal licitálni, ily módon egyfajta fordított pszichológiai manővert alkalmazva a politikai középpont felé taszítani őket.

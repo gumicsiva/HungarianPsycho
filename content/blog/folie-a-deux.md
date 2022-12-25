@@ -6,7 +6,7 @@ description:
 toc: false
 date: 2022-12-10T21:10:00+07:00
 categories:
-  - "Rémhírterjesztés"
+  - "Rémhír-terjesztés"
 tags:
   - "HU"
 ---
