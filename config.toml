@@ -55,6 +55,10 @@ theme = "mainroad"
   list = "left"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["recent", "categories", "taglist", "search", "social", "languages"]
+  widgets = ["social", "recent", "categories", "taglist", "search", "languages"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
-  # widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages"]
+  # widgets = [ "recent", "social", "categories", "taglist", "languages"]
+
+  [Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "HungarianPsycho"
