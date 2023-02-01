@@ -19,7 +19,7 @@ B. F. Skinner, a Harvard pszichológus professzora rendkívüli módon unta a ju
 
 Így kezdődött el az a munka, melyre sok modernkori – többek között motivációval, függőséggel, játékszenvedéllyel és mentális betegségekkel foglalkozó – kutatás is épül. Skinner a fenti idézetben periodikus megerősítés-ként írja le, a kortárs szakirodalomban VI/VR reinforcement schedule (változó intervallumos és változó arányú megerősítési rendszer) néven hivatkoznak rá, de sokan *intermittent reinforcement* [^2] néven ismerik. 
 
-[^2]: A továbbiakban az egyszerűség kedvéért az *intermittent reinforcement* kifejezést fogom használni annak ellenére, hogy sem a terminus pontos eredetét nem sikerült tisztáznom, sem megbízható forrásból származó egzakt definíciót nem találtam hozzá (leszámítva taláne ezt: https://dictionary.apa.org/variable-ratio-schedule). Mégis ezt tartom a leghatékonyabb megoldásnak, hiszen ez talán a laikusok körében legelterjedtebb ide köthető kifejezés.
+[^2]: A továbbiakban az egyszerűség kedvéért az *intermittent reinforcement* kifejezést fogom használni annak ellenére, hogy sem a terminus pontos eredetét nem sikerült tisztáznom, sem megbízható forrásból származó egzakt definíciót nem találtam hozzá (leszámítva talán ezt: https://dictionary.apa.org/variable-ratio-schedule). Mégis ezt tartom a leghatékonyabb megoldásnak, hiszen ez talán a laikusok körében legelterjedtebb ide köthető kifejezés.
 
 A középagyi dopaminsejtek aktivitása fontos szerepet játszik a jutalommal kapcsolatos *arousal* (izgatottság érzés) és az ebből fakadó, a jutalom megszerzésére irányuló viselkedés kialakulásának és fenntartásának folyamatában. A dopaminkísérleteknek köszönhetően kiderült, hogy az izgalmi állapot a jutalom tényleges megszerzését megelőzően, az anticipációs (jutalomra való várakozás) szakaszban közel azonos vagy magasabb, mint a jutalom megszerzésének pillanatában, majd azt követően – amennyiben egy kiszámítható megerősítési rendszerről van szó – gyors hanyatlásnak indul. Amennyiben kiszámíthatatlan megerősítési rendszerben történik mindez, a válaszreakció tartósabb, nem esik vissza azonnal. [^3] 
 
@@ -34,7 +34,7 @@ Megvizsgálták azt is,[^4] hogy milyen szintű izgalmat vált ki a kilátásba 
 A dopaminsejtek folyamatos aktivitási szintjét (sustained activity) mérve a kutatók arra jutottak, hogy ez az 50%-os valószínűségi szintnél (mely értelemszerűen a legbizonytalanabb kimenetelű régió) a legmagasabb és legstabilabb. *Olyannyira, hogy csaknem teljesen független attól, hogy a pozitív megerősítés bekövetkezik-e, vagy elmarad.* 
 > A kísérleti majmok lankadatlan, feszült eufóriában várják, hogy mikor lesz szerencséjük. Ez a valószínűségi szint az igazi *sweet spot*: a „vagy igen, vagy nem” kecsegtető állapota, a levegőben perdülő pénzérme, a félig lekapart sorsjegy, a pörgő rulettkerék várakozással teli pillanatai. A 25% és 75% körüli értékekhez társuló helyzetek már túl sok vagy túl kevés bizonyosságot rejtenek ahhoz, hogy ekkora izgalmat váltsanak ki, így a neurális reakció is valamivel lagymatagabb. A haranggörbe két lábánál – a 0% és 100% esetében – az abszolút IGEN és abszolút NEM földjén már síri csönd és teljes érdektelenség honol. Ami garantált, az épp annyira értéktelen, mint ami teljesen kizárható.
 
-A jutalom elvárt és tényleges mértéke közötti pozitív eltérés (reward prediction error)[^5] különlegesen magas aktivitást indukál, azaz a vártnál nagyobb mennyiségben és minőségben, ill. nem várt időpontban érkező jutalomra adott dopaminsejt-reakció mindennél erősebb.
+A jutalom elvárt és tényleges mértéke közötti pozitív eltérés (reward prediction error)[^5] különlegesen magas aktivitást indukál, azaz a vártnál nagyobb mennyiségben és minőségben, ill. nem várt időpontban érkező jutalomra adott dopaminsejt-reakció mindennél erősebb. 
 
 [^5]: Schultz W. Dopamine reward prediction error coding. Dialogues Clin Neurosci. 2016 Mar;18(1):23-32. doi: 10.31887/DCNS.2016.18.1/wschultz. PMID: 27069377; PMCID: PMC4826767.
 
@@ -61,3 +61,12 @@ Az eddigiek alapján tehát megállapíthatjuk, hogy a kelepce felállításáho
 **2.)** a jutalom (vélt vagy ténylegesen) magas értéke. 
 
 Bármi legyen is az a pozitív kimenettel áltató körülmény, mely gúzsba köt, legalább részben egészen biztosan ezen a két pilléren nyugszik mérgező vonzereje. Ebből következik, hogy a helyzet hatástalanításához a *bizonytalanság kiiktatásával*, és/vagy a *jutalom devalválásával* kerülhetünk közelebb. Ez utóbbi valószínűleg nehezebben kivitelezhető, hiszen az, hogy mi tesz egy jutalmat értékessé, rendkívül komplex és nagyrészt szubjektív eredetű kérdés. Közrejátszik a meghatározásában, hogy deprivációs szakaszban érkezik-e (ha éhesek vagyunk, a száraz kiflivég is felértékelődik), váratlan mennyiségben/minőségben kapjuk-e, mennyire hamar kapjuk meg és így tovább. A bizonytalanság kiiktatása talán valamivel könnyebben elérhető, hiszen ha felismerjük és elfogadjuk, hogy az 50%-os sikerrel aktív részvételre csábító szcenárióban a siker tényleges valószínűsége az alacsonyab probabilitási szintek irányába konvergál, a bizonytalansági faktor – némi csalódás és szívfájdalom árán ugyan, de – kiküszöbölhető. 
+
+{{< figure src="/x.png" width="13" class="center" alt="x" >}}
+
+## Felhasznált irodalom:
+
+Robinson MJF, Anselme P. How uncertainty sensitizes dopamine neurons and invigorates amphetamine-related behaviors. Neuropsychopharmacology. 2019 Jan;44(2):237-238. doi: 10.1038/s41386-018-0130-9. Epub 2018 Jun 29. PMID: 29959440; PMCID: PMC6300523.
+
+Linnet, Jakob: Neurobiological underpinnings of reward anticipation and outcome evaluation in gambling disorder / https://www.frontiersin.org/articles/10.3389/fnbeh.2014.00100     
+
