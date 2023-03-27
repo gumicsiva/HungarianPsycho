@@ -23,7 +23,7 @@ Egy széles folyó partján állok a nyirkos éjszakában, a ködbe vesző túlp
 
 {{< figure src="/x.png" width="13" class="center" alt="x" >}}
 
-Rá kellett jönnöm, hogy valószínűleg egy aritmetikai műveletekre alapvetően alkalmatlan infrastruktúrát használok ilyenkor, ami egészen ötletes megoldás megfelelő mentális modulok hiányában: a “módszer” pont annyit tud, amennyi a túléléshez szükséges. 
+Rá kellett jönnöm, hogy valószínűleg egy aritmetikai műveletekre alapvetően alkalmatlan infrastruktúrát használok számoláskor, ami egészen ötletes megoldás megfelelő mentális modulok hiányában: a “módszer” pont annyit tud, amennyi a túléléshez szükséges. 
 
 >*8 komoran barna, 6 émelyítően sütőtökszínű, 3 arcátlanul sárga, 2 egy türkiz lombok mögött rejtőző hattyú és így tovább. Az egyes numerikus karakterek az esetemben nem számérzetet vagy számfogalmat kódolnak, hiszen ez a technológia valamilyen okból nem áll rendelkezésre a diszkalkuliás agyban (vagy csak nagyon kezdetleges, sérült formában), így egyfajta kompenzációként színhangsúlyos vizuális érzetekre vetítettem rá az egyes szimbólumokat. Ezek állandó és élénk asszociációk, melyek a kognitív behangolódás kezdeti szakaszában rögzülhettek, természetesen tudatos irányítás nélkül.*
 
@@ -35,7 +35,7 @@ Felmerül a kérdés, hogy matemaikai ösztön hiányában, a szinesztéziás ka
 
 {{< figure src="/x.png" width="13" class="center" alt="x" >}}
 
-### Felhasznált irodalom
+### Felhasznált irodalom:
 
  * ["Numerikus képességek idegrendszeri alapjai"](https://hu.wikipedia.org/wiki/Numerikus_k%C3%A9pess%C3%A9gek_idegrendszeri_alapjai#:~:text=Az%20intrapariet%C3%A1lis%20sulcus%20(IPS)%20kiemelt%20szerepe,-Az%20intrapariet%C3%A1lis%20sulcus&text=Nemhum%C3%A1n%20eml%C5%91s%C3%B6kkel%20folytatott%20neurofiziol%C3%B3giai%2C%20illetve,ki%20a%20numerikus%20intelligencia%20m%C3%B6g%C3%B6tt.) (*Wikipedia*)
 * Juhász Levente Zsolt: A szinesztézia pszichológiája (*2005, ELTE, doktori disszertáció*)
