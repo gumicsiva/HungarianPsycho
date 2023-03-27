@@ -5,7 +5,7 @@ date: "2022-10-06"
 thumbnail: "img/ajjajj.jpg"
 lead: 
 categories:
-  - "Észosztás"
+  - "Téveszme"
 tags:
   - "EN"
 
