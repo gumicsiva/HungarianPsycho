@@ -31,7 +31,7 @@ Nyilvánvaló azonban, hogy ez a struktúra nem bírja a terhelést, hiszen nem 
 
 Ugyanez a szinesztéziás architektúra azonban más területeken kifejezetten adaptív módon működik – az ABC színkódolt betűi a belőlük formált szavak hangzásával és gazdag jelentéstartományával karöltve olyan intenzív érzelmi élményt okoznak, ami lényegesen megkönnyíti a nyelvtanulást. Tekintve, hogy a nyelvben nincsenek klasszikus értelemben vett logikai összefüggések (a szóalakok arbitrárius módon társulnak a szemantikai egységekhez – azaz, a szó formájából nem lehet a jelentésére következtetni és vica versa), tanulásához remekül illeszkedik ez az asszociatív, összeérzékeléses kódolási módszer.
 
-Felmerül a kérdés, hogy matemaikai ösztön hiányában, a szinesztéziás kapcsolásokon keresztül véghezvitt számolás vajon valódi számolás-e. Meglehet, hogy a szinesztéziás-diszkalkuliás semmiben sem különbözik a [kínai szoba gondolatkísérletben](http://mialmanach.mit.bme.hu/fogalomtar/kinai_szoba) szereplő operátortól, aki nem tud kínaiul, de képes a bemeneti és kimeneti értékeket sikeresen összekötve azt a látszatot kelteni, hogy mégis.
+Felmerül a kérdés, hogy matemaikai ösztön hiányában, a szinesztéziás kapcsolásokon keresztül véghezvitt számolás vajon valódi számolás-e. Meglehet, hogy a szinesztéziás-diszkalkuliás semmiben sem különbözik a [kínai szoba gondolatkísérletben](https://hu.frwiki.wiki/wiki/Chambre_chinoise) szereplő operátortól, aki nem tud kínaiul, de képes a bemeneti és kimeneti értékeket sikeresen összekötve azt a látszatot kelteni, hogy mégis.
 
 {{< figure src="/x.png" width="13" class="center" alt="x" >}}
 
