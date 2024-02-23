@@ -4,7 +4,7 @@ draft:
 thumbnail: "img/dys.jpg"
 description: 
 toc: false
-date: 2023-03-28T11:10:00+07:00
+date: 2023-03-27T11:10:00+07:00
 categories:
   - "Konfabuláció"
 tags:
