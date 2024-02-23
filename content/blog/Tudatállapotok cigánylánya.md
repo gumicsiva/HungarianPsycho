@@ -1,6 +1,6 @@
 ---
 title: Tudatállapotok cigánylánya
-draft: 
+draft: true
 thumbnail: "img/cigi.png"
 description: 
 toc: false
