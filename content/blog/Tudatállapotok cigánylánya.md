@@ -4,7 +4,7 @@ draft: true
 thumbnail: "img/cigi.png"
 description: 
 toc: false
-date: 2023-03-28T11:10:00+07:00
+date: 2024-02-24T11:10:00+07:00
 categories:
   - "Logorrhea"
 tags:
