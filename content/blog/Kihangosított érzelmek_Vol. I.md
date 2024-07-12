@@ -1,6 +1,6 @@
 ---
 title: Kihangosított érzelmek /VOL. I.
-draft: true
+draft: false
 thumbnail: "img/cigi.png"
 description: 
 toc: false
