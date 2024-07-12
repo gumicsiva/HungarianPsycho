@@ -6,7 +6,7 @@ description:
 toc: false
 date: 2024-07-12T11:10:00+07:00
 categories:
-  - "Konfabuláció"
+  - "Kihangosított érzelmek"
 tags:
   - "HU"
 ---
