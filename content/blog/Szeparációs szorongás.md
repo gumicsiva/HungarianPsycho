@@ -1,6 +1,6 @@
 ---
 title: SZEPARÁCIÓS SZORONGÁS - Kihangosított érzelmek /I.
-draft: false
+draft: true
 thumbnail: "img/cigi.png"
 description: 
 toc: false

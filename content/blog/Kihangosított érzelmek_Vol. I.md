@@ -4,7 +4,7 @@ draft: false
 thumbnail: "img/cigi.png"
 description: 
 toc: false
-date: 2024-02-24T11:10:00+07:00
+date: 2024-07-12T11:10:00+07:00
 categories:
   - "Konfabuláció"
 tags:
