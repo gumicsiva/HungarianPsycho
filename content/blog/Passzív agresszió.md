@@ -1,7 +1,7 @@
 ---
 title: PASSZÍV AGRESSZIÓ - Kihangosított érzelmek /II.
 draft: false
-thumbnail: "img/s.jpeg"
+thumbnail: "img/s.jpg"
 description: 
 toc: false
 date: 2024-07-12T11:10:00+07:00
