@@ -1,6 +1,6 @@
 ---
 title: Kihangosított érzelmek /Vol I. /SZEPARÁCIÓS SZORONGÁS, PASSZÍV AGRESSZIÓ, BASELINE
-draft: true
+draft: false
 thumbnail: "img/cigi.png"
 description: 
 toc: false
