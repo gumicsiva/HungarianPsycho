@@ -1,6 +1,6 @@
 ---
 title: SZEPARÁCIÓS SZORONGÁS - Kihangosított érzelmek /I.
-draft: false
+draft: true
 thumbnail: "img/cigi.png"
 description: 
 toc: false
@@ -11,7 +11,6 @@ tags:
   - "HU"
 ---
 
-#### SZEPARÁCIÓS SZORONGÁS_
 
 Korlátozott és szűkös az a kapacitás, ami befogadásomra rendelkezésre áll. Nagyon kell vigyáznom, nehogy túltöltődjenek tőlem – de szórakoztatnom kell a másikat, nem lassulhatok folyami kaviccsá. 
 
@@ -25,7 +24,7 @@ kicsit vonaglasz, kell az az oxigén, kitéped magad a kezeim közül – beford
 
 Most kezdek sírni, hangtalanul, tehetetlenül. Folytatódom a könnyeimben. Keresek egy jelenlétet, ami nincs; egy ölelést, amihez nincs elég kar; figyelmet, amit magam sem tudnék megadni senkinek.  
 
-#### PASSZÍV AGRESSZIÓ_
+#### PASSZÍV AGRESSZIÓ
 
 Nem tudok aludni. Szintén nem tudok a nem kívánt tényekből felocsúdni, és van ebben talán valamiféle halálfélelem is – nem bízom abban, hogy folytatódom álmomban.
 4:17. Jó lenne végre letenni önmagam.
@@ -43,7 +42,7 @@ Mindenkit megvetek. Látom a szánalmas, szarrágó kis stratégiákat, a szépe
 (De még bármi lehetek.)
 (Ha nagy leszek.)
 
-#### BASELINE_
+#### BASELINE
 
 Könnyűnek és egyértelműnek érzem a testem. Belefeledkezem a zenébe, jóleső gondolatok áramlataival vitetem magam. Nem várok magamtól semmit és másoktól sem. A megálmodott világ van olyan jó, mint a valódi; a valódi világ van olyan jó, mint a fantáziám. Szemlélődő gyengédséggel vagyok magam iránt. Képes vagyok megfelelő sebességgel haladni a rám váró dolgok irányába. Hiányzik ebből az állapotból a nyomor tombolása, az eksztázis feszítése – keresetlenül egyszerű hely ez.
 
