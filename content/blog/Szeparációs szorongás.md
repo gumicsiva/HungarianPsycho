@@ -1,7 +1,7 @@
 ---
 title: SZEPARÁCIÓS SZORONGÁS - Kihangosított érzelmek /I.
 draft: false
-thumbnail: "img/esku.jpeg"
+thumbnail: "img/cigi.png"
 description: 
 toc: false
 date: 2024-07-12T11:10:00+07:00
