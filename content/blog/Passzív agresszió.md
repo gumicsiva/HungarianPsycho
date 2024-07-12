@@ -1,6 +1,6 @@
 ---
 title: PASSZÍV AGRESSZIÓ - Kihangosított érzelmek /II.
-draft: true
+draft: false
 thumbnail: "img/s.jpg"
 description: 
 toc: false
