@@ -1,6 +1,6 @@
 ---
 title: SZEPARÁCIÓS SZORONGÁS - Kihangosított érzelmek /I.
-draft: true
+draft: false
 thumbnail: "img/cigi.png"
 description: 
 toc: false
@@ -11,8 +11,7 @@ tags:
   - "HU"
 ---
 
-
-Korlátozott a kapacitás, ami a befogadásomra rendelkezésre áll. Nagyon kell vigyáznom, nehogy túltöltődjenek velem – de szórakoztatnom is kell a másikat, nem alakulhatok folyami kaviccsá. 
+Korlátozott és szűkös az a kapacitás, ami befogadásomra rendelkezésre áll. Nagyon kell vigyáznom, nehogy túltöltődjenek tőlem – de szórakoztatnom kell a másikat, nem alakulhatok folyami kaviccsá. 
 
 Szeretem, amikor egybenyitjuk a metakognitív mezőinket, közösen bonyolítunk és bogozunk, egymáshoz simulva, édesen. Egy idő után mégis beteges, felzaklató érzés: ezért. Sok lesz, inflálódik, elunod, ásítasz. Nincs kegyetlenebb élmény, mint csillogó szemekkel benne maradni egy gondolatmenetben, amit közösnek hittél – egyedül.
 
