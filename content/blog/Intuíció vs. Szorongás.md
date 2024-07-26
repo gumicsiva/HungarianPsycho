@@ -19,8 +19,7 @@ A *szorongás* elsősorban egy kognitív glitch, amihez társulnak kellemetlen s
 
 Az a tényező, ami a szorongást önmagába visszaforgatva duzzasztja: a ***kétely***. Hihetek-e annak az érzésnek, hogy itt valami nem stimmel? Vagy téves riasztás ez is? Pontosan ez a bizonytalanság a dolog jelentőségében, ami a legtöbb szenvedést okozza, és aminek következtében a gondolat két egymást kizáró lehetőség között oszcillál egyre gyorsuló ütemben. *Nem lehet, hogy...?* 
 És néha lehet, hogy... (A), máskor pedig nem (B). 
-Ha (A) igaz, azonnal meg kell tenni az ebből kövekező lépést, ha pedig (B), akkor az azzal ellentéteset. 
-
+Ha (A), azonnal meg kell tenni az ebből kövekező lépést, ha pedig (B), akkor az azzal ellentéteset. 
 *(Menjek vagy Szeressek? Maradok, de szorongok.)* 
 
 Nincs azonban tiszta válasz, csak a kétely. Ebből a csapdába-esettségből, döntésképtelenségből ered egy extra réteg gyötrelem, ami az esetlegesen bekövetkező (vagy már bekövetkezett) negatív esemény által okozott fájdalmakat csak növeli, annak elkerülését azonban többnyire nem segíti elő.
