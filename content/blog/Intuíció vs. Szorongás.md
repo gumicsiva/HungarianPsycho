@@ -11,6 +11,8 @@ tags:
   - "HU"
 ---
 
+>Hogyan különböztessük meg a parttalan szorongást az intuitív felismeréstől?
+
 A *félelem* egyértelmű: a veszély itt van közvetlenül előttem, - nincs kérdés, - azonnal menekülőre kell fogjam (vagy a másik két opció). Zsigeri, direkt - és sokszor automatikus cselekvéssel jár.
 
 A *szorongás* elsősorban egy kognitív glitch, amihez társulnak kellemetlen szomatikus jelenségek. A szorongás gondolati magja: el kell kerülnöm egy (még nem látható, távoli, ismeretlen, rejtett) veszélyt. Az igény, hogy ilyen érzelmi radar funkció létezzen, teljesen indokolt, azonban maga a szorongás legtöbbször nem képes ezt a feladatot ellátni - olyan, mint egy túlműködő mozgásérzékelő, ami elröppenő legyekre, fuvallatokra vagy szellemekre is feleslegesen bejelez. 
