@@ -43,4 +43,7 @@ Ha a veszély gyorsabban jön, mint felkészülhettünk volna rá, a veszély gy
 
 Aki szorong, annak mindig igaza van. Aki mindig komolyan veszi a szorongását, annak soha.
 
+{{< figure src="/x.png" width="13" class="center" alt="x" >}}
+
+A posztot a következő komment inspirálta:
 ![kep](/redditpost.jpg)
