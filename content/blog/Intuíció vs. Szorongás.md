@@ -11,7 +11,7 @@ tags:
   - "HU"
 ---
 
->Hogyan különböztessük meg a parttalan szorongást az intuitív felismeréstől?
+>*Hogyan különböztessük meg a parttalan szorongást az intuitív felismeréstől?*
 
 A *félelem* egyértelmű: a veszély itt van közvetlenül előttem, - nincs kérdés, - azonnal menekülőre kell fogjam (vagy a másik két opció). Zsigeri, direkt - és sokszor automatikus cselekvéssel jár.
 
