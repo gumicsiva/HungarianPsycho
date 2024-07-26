@@ -15,8 +15,7 @@ A *félelem* egyértelmű: a veszély itt van közvetlenül előttem, - nincs k�
 
 A *szorongás* elsősorban egy kognitív glitch, amihez társulnak kellemetlen szomatikus jelenségek. A szorongás gondolati magja: el kell kerülnöm egy (még nem látható, távoli, ismeretlen, rejtett) veszélyt. Az igény, hogy ilyen érzelmi radar funkció létezzen, teljesen indokolt, azonban maga a szorongás legtöbbször nem képes ezt a feladatot ellátni - olyan, mint egy túlműködő mozgásérzékelő, ami elröppenő legyekre, fuvallatokra vagy szellemekre is feleslegesen bejelez. 
 
-Az a tényező, ami a szorongást önmagába visszaforgatva duzzasztja: a ***kétely***. Hihetek-e annak az érzésnek, hogy itt valami nem stimmel? Vagy téves riasztás ez is? Pontosan ez a bizonytalanság a dolog jelentőségében, ami a legtöbb szenvedést okozza, és aminek következtében a gondolat két egymást kizáró lehetőség között oszcillál egyre gyorsuló ütemben.
-*Nem lehet, hogy...?* 
+Az a tényező, ami a szorongást önmagába visszaforgatva duzzasztja: a ***kétely***. Hihetek-e annak az érzésnek, hogy itt valami nem stimmel? Vagy téves riasztás ez is? Pontosan ez a bizonytalanság a dolog jelentőségében, ami a legtöbb szenvedést okozza, és aminek következtében a gondolat két egymást kizáró lehetőség között oszcillál egyre gyorsuló ütemben. *Nem lehet, hogy...?* 
 És néha lehet, hogy... (A), máskor pedig nem (B). 
 Ha (A) igaz, azonnal meg kell tenni az ebből kövekező lépést, ha pedig (B), akkor az azzal ellentéteset. 
 
