@@ -1,7 +1,7 @@
 ---
 title: Intuíció vs. Szorongás
 draft: false
-thumbnail: "img/esku.png"
+thumbnail: "img/esku.JPEG"
 description: 
 toc: false
 date: 2024-07-26T11:10:00+07:00
