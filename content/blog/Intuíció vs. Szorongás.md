@@ -16,7 +16,6 @@ A *félelem* egyértelmű: a veszély itt van közvetlenül előttem, - nincs k�
 A *szorongás* elsősorban egy kognitív glitch, amihez társulnak kellemetlen szomatikus jelenségek. A szorongás gondolati magja: el kell kerülnöm egy (még nem látható, távoli, ismeretlen, rejtett) veszélyt. Az igény, hogy ilyen érzelmi radar funkció létezzen, teljesen indokolt, azonban maga a szorongás legtöbbször nem képes ezt a feladatot ellátni - olyan, mint egy túlműködő mozgásérzékelő, ami elröppenő legyekre, fuvallatokra vagy szellemekre is feleslegesen bejelez. 
 
 Az a tényező, ami a szorongást önmagába visszaforgatva duzzasztja: a ***kétely***. Hihetek-e annak az érzésnek, hogy itt valami nem stimmel? Vagy téves riasztás ez is? Pontosan ez a bizonytalanság a dolog jelentőségében, ami a legtöbb szenvedést okozza, és aminek következtében a gondolat két egymást kizáró lehetőség között oszcillál egyre gyorsuló ütemben.
-
 *Nem lehet, hogy...?* 
 És néha lehet, hogy... (A), máskor pedig nem (B). 
 Ha (A) igaz, azonnal meg kell tenni az ebből kövekező lépést, ha pedig (B), akkor az azzal ellentéteset. 
@@ -26,8 +25,6 @@ Ha (A) igaz, azonnal meg kell tenni az ebből kövekező lépést, ha pedig (B),
 Nincs azonban tiszta válasz, csak a kétely. Ebből a csapdába-esettségből, döntésképtelenségből ered egy extra réteg gyötrelem, ami az esetlegesen bekövetkező (vagy már bekövetkezett) negatív esemény által okozott fájdalmakat csak növeli, annak elkerülését azonban többnyire nem segíti elő.
 
 A szorongás lehet jogos (azaz, jelezhet olyan helyzetet, amiben még fel nem tárt, potenciális veszélyforrások vannak), de az esetek túlnyomó többségében nem hasznos, és még ha jogos is, kisebb mértékben járul hozzá a helyes ítéletalkotáshoz és döntéshozáshoz, mint az intuíció. Ez utóbbi minőségileg, érzelmileg nagyon más élmény (persze szorongás csapódhat hozzá, de a kettő különválasztható).
-
-![kep](/redditpost.jpg)
 
 Az *intuíció* során jellemzően nincsenek testi tünetek. Nyugalom van, valamiféle üresség, aminek az íze lehet semleges, akár édes vagy keserű, attól függően, hogy amire rájöttünk, az pozitív, vagy negatív. De nincs az a pánikszerű zakatolás, ami a szorongásnál; és pontosan a kétely megszűnése jelzi azt, hogy az intuitív döntés lehetősége megteremtődött. Magam is megéltem ezt, többnyire hosszú, vívódással teli, szorongós időszakok után, amikor is - látszólag spontán, tökéletes természetességgel, mint amikor egy őszi falevél eloldódik a fa ágától, és gyengéden a mélybe szállingózik - megszületett bennem a minden kétséget kizáró belátás azzal kapcsolatban, hogy merre kell menjek az adott helyzetben.  
 
@@ -45,3 +42,5 @@ Feleslegesen szorongok, vagy tényleg valami baj van? A válasz: több, mint val
 Ha a veszély gyorsabban jön, mint felkészülhettünk volna rá, a veszély gyorsabban jött, mint fel lehetett volna készülni rá. Esélyünk sem volt, de legalább addig a pontig nem rágott minket szét a szorongás.
 
 Aki szorong, annak mindig igaza van. Aki mindig komolyan veszi a szorongását, annak soha.
+
+![kep](/redditpost.jpg)
